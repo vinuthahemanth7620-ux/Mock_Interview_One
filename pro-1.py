@@ -1,5 +1,4 @@
 age = int(input("Enter your age: "))
-
 if age >= 18:
     id_proof = input("Do you have a valid ID proof? (y/n): ")
 
